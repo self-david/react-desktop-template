@@ -1,0 +1,83 @@
+{
+  "file": {
+    "label": "File",
+    "content": {
+      "newFile": {
+        "label": "New file",
+        "isChecked": false
+      },
+      "open": {
+        "label": "Open file",
+        "isChecked": false
+      },
+      "save": {
+        "label": "Save",
+        "isChecked": false
+      },
+      "saveAs": {
+        "label": "Save as",
+        "isChecked": false
+      },
+      "autoSave": {
+        "label": "Auto save",
+        "isChecked": true
+      },
+      "close": {
+        "label": "Close",
+        "isChecked": false
+      }
+    }
+  },
+
+  "view": {
+    "label": "View",
+    "content": {
+      "search": {
+        "label": "Search",
+        "isChecked": false
+      },
+      "replace": {
+        "label": "Replace",
+        "isChecked": false
+      },
+      "terminal": {
+        "label": "Terminal",
+        "isChecked": true
+      },
+      "problems": {
+        "label": "Show problems",
+        "isChecked": false
+      }
+    }
+  },
+
+  "lang": {
+    "label": "Languaje",
+    "content": {
+      "es": {
+        "label": "Español",
+        "isChecked": true,
+        "group": "lang"
+      },
+      "en": {
+        "label": "English",
+        "isChecked": true,
+        "group": "lang"
+      }
+    }
+  },
+
+  "help": {
+    "label": "Help",
+    "content": {
+      "documentation": {
+        "label": "Documentation",
+        "isChecked": false
+      },
+      "reportProblems": {
+        "label": "Report problems",
+        "isChecked": false
+      }
+    }
+  }
+}
