@@ -72,4 +72,4 @@ If you are interested in making a contribution, or find an error, do not hesitat
 
 ## Licencia
 
-[MIT](./LICENCE)
+[MIT](./LICENSE)
